@@ -1,0 +1,14 @@
+Test Case 1
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Test Case 2
+Favorite Food: Biryani
+Favorite Color: Black
+
+Test Case 3
+Favorite Food:
+Favorite Color:
+
+Expected Result:
+Program should ask again for valid input.
